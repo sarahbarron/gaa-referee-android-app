@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">gaa-referee-app</string>
+    <string name="logo_name">GAA REF</string>
+
+<!--    Login Layout -->
+    <string name="hint_email">name@gaaref.com</string>
+    <string name="hint_password">password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="btn_sign_in">Sign In</string>
+    <string name="msg_sign_up">"Don't have an account?\nSign Up Here"</string>
+
+<!--    Sign up layout -->
+    <string name="hint_sign_up_name">Referee Name</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="msg_sign_in">"Already have an account?\nSign in Here"</string>
+
 </resources>
